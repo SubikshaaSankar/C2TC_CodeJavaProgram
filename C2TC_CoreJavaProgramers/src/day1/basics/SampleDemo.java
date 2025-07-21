@@ -4,7 +4,7 @@ public class SampleDemo {
 
 	public static void main(String[] args) {
 		System.out.println("welcome to JFS...");
-        System.out.println("next line");
+                System.out.println("next line");
 	}
 
 }
